@@ -1,0 +1,20 @@
+Dedicated Channel for Flutter:
+- https://www.youtube.com/@FlutterMapp/featured
+-https://www.youtube.com/@HeyFlutter/playlists
+
+
+
+Getting Started: 
+- Flutter for beginer: https://www.youtube.com/watch?v=QgQJJ0y0A6w&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=20
+- Flutter Animation : https://www.youtube.com/watch?v=OtrWXLfGtqE&list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1
+
+
+
+Floating Action Button - Flutter Notched Bottom Bar :https://www.youtube.com/watch?v=XxbTFkmQ1wk
+Best Flutter Widget Ever: https://www.youtube.com/watch?v=G1LGOH424lo
+
+Every Flutter Widget (215) : https://www.youtube.com/watch?v=kj_tldMmu4w&list=PL82uaKJraAILRBFE1XhCyfvu-Fclc6vv1
+Flutter Drawer : https://www.youtube.com/watch?v=ctibKAUH2Zs
+Bottem Sheet Pop Up: https://www.youtube.com/watch?v=pcHViPPbSHQ
+Card Swipe animation in flutter : https://www.youtube.com/watch?v=exFXtQ36xvg
+
